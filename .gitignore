@@ -5,3 +5,4 @@ h_test.html
 .vscode/settings.json
 R.md
 node_modules/*
+package-lock.json
